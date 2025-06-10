@@ -200,7 +200,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://opticksstatic.com/conversion"
+                "string": "https://opticksstatic.com/*"
               }
             ]
           }
