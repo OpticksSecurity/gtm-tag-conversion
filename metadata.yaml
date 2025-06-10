@@ -1,5 +1,7 @@
 homepage: "https://optickssecurity.com"
 documentation: "https://support.optickssecurity.com/docs/articles/4423062577041-Use-Google-Tag-Manager-to-integrate-OpticksJS"
 versions:
+  - sha: 59161b7cfeecdbe22594ab5f76b58e3603846fe4
+    changeNotes: Fix permissions for sendpixel.
   - sha: bf603d8ad23673c949f95957642c60019beb33d2
     changeNotes: Initial release.
